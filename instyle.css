@@ -1,0 +1,48 @@
+body{
+    background-color: antiquewhite;
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "copperplate";
+    color: rebeccapurple;
+}
+#front-image{
+    width: 500px;
+    height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dish{
+    text-align: center;
+    font-family: "copperplate";
+    color: rebeccapurple;
+}
+div.items{
+    text-align: center;
+    font-family: "copperplate";
+}
+.items.burimg{
+    width: 25px;
+    height: auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+.items.pizzimg{
+    width: 50px;
+    height: auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.items.dosaimg{
+    width: 25px;
+    height: auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
